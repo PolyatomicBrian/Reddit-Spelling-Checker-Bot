@@ -1,0 +1,4 @@
+# Reddit-Spelling-Checker-Bot
+######A bot that replies to comments that misspell the word "spelling."
+
+Reddit is an entertainment, news, and networking website. People can post things, and other people can comment on those posts. I created this bot to help ensure that the word "spelling" would always be spelled the right way. If someone makes a comment that contains the word "speeling" or "speling" in it, then the bot will comment to that person with the correct spelling. The bot was written in Python, and it was the first automated tool I've ever created. To make this bot, I used the PRAW library, which is an acronym for "Python Reddit API Wrapper." It was surprisingly simple to write the bot, and it only required 30 lines of code. The code can easily be changed to allow the bot to search for any other key word or phrase, and comment with whatever the programmer would like it to say. 
