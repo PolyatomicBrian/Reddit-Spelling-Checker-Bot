@@ -1,8 +1,15 @@
 
-#The goal of this bot is to reply to comments that misspell the word "spelling"
-#Copyright Brian Jopling 2015 top kek
-#(Heh, there's no copyright. Do what you want with this. Less than 30 lines of code that does the most basic of things...)
-#Enjoy. :)
+#Reddit Spelling Checker Bot
+# ~~ By Brian Jopling, 2015 ~~
+# ---------------------------------------------------------------------------------
+#Purpose: To ensure that the word "spelling" (or any other word of your desire)
+#         would always be corrected when someone on Reddit spells it wrong.
+# ---------------------------------------------------------------------------------
+#Why was this created?
+#I created this as a means of learning more about automation. This was the first
+#automated tool I had built, and I learned a lot working with Python and the
+#PRAW library.
+# ---------------------------------------------------------------------------------
 
 import praw
 import time
